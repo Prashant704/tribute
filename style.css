@@ -1,0 +1,28 @@
+*{
+    margin: 2px;
+    padding: 0;
+}
+.container{
+    border: 5px solid black;
+    min-height: 100vh;
+    background-color: rgb(164 164 201);
+}
+img{
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.para2{
+    margin: 0 15%;
+}
+.para2 q{
+    font-size:30px;
+    font-weight: 600;
+}
+.para1{
+    margin-top: 30px;
+    font-size: 20px;
+}
